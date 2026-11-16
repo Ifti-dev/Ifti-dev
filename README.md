@@ -30,10 +30,6 @@
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ifti-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifti-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifti-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
