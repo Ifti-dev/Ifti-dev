@@ -1,6 +1,16 @@
-### Hi 👋, I'm Md. Iftekhar Mawla (Ifti)
+<!-- banner -->
+<p align="center">
+  <img src="./banner/Modern Full-Stack Developer Banner.png" alt="Ifti-dev Banner" width="100%">
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=false&vCenter=true&width=460&lines=Full-Stack+Web+Developer;CSE+Undergraduate+at+Dhaka;WordPress+%26+PHP+Specialist;Leveling+up+with+TypeScript!" alt="Typing SVG" />
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Md. Iftekhar Mawla (Ifti)</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;CSE+Undergraduate+at+Dhaka;WordPress+%26+PHP+Specialist;Leveling+up+with+TypeScript!" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
 - 🖥️ **I'm currently working on** custom WordPress themes/plugins, PHP, MySQL, and core JavaScript applications.
 - 🗄️ **Using** HTML5, CSS3, JavaScript, PHP, MySQL, and the WordPress/WooCommerce ecosystem for robust web solutions.
